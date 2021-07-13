@@ -9,7 +9,7 @@ The following features are included in the application:
 * Production configuration for uwsgi
 * API documentation using the OpenAPI 3 specification and Swagger UI
 
-For more information, read [my blog post on Flask APIs](https://www.datascienceblog.net/post/programming/flask-api-development/).
+For more information, read [this blog post on Flask APIs](https://www.datascienceblog.net/post/programming/flask-api-development/).
 
 ## Setup
 
